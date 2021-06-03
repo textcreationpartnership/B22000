@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five speciall orders of the Lords and Commons assembled in Parliament I. concerning great resort of people unto this city of London, of which some are suspected to be persons ill-affected to the peace of this city and kingdome : also that no victuals or other provision be suffered to be carried out of London, without licence : and that no officer or souldier of his Excellencies army be permitted to come into this city without a certificate : II. for the reliefe of Manchester and other parts in Lancaster, against the rising of the papists there : III. concerning some souldiers lately come out of Ireland : IV. for a search to be made in London, the suburbes, and townes adjacent, for armes : V. that a search be made for horses, or any other ammunition, which have bin sold or pawn'd by any of the souldiers of the army, raised by the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22000</idno><idno type="EEBO-CITATION">12497039</idno>
+  <idno type="VID">197746</idno>
+  <idno type="EEBO-PROQUEST">2240951681</idno>
+  
+            <idno type="STC">Wing E1536A</idno>
+            <idno type="OCLC">12497039</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E128, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five speciall orders of the Lords and Commons assembled in Parliament I. concerning great resort of people unto this city of London, of which some are suspected to be persons ill-affected to the peace of this city and kingdome : also that no victuals or other provision be suffered to be carried out of London, without licence : and that no officer or souldier of his Excellencies army be permitted to come into this city without a certificate : II. for the reliefe of Manchester and other parts in Lancaster, against the rising of the papists there : III. concerning some souldiers lately come out of Ireland : IV. for a search to be made in London, the suburbes, and townes adjacent, for armes : V. that a search be made for horses, or any other ammunition, which have bin sold or pawn'd by any of the souldiers of the army, raised by the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>Nov. 26, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197746:1"/>
+            <p>Five SPECIALL ORDERS Of The LORDS and COMMONS Assembled in <hi>Parliament.</hi>
+               <list>
+                  <item>I. Concerning great resort of Peo<g ref="char:EOLhyphen"/>ple unto this City of LONDON, of which some are suspected to be Persons ill-affected to the peace of this City and Kingdome: also that no victuals or other provision be suffered to be carried out of London, without Licence, and that no Officer or Souldier, of his Excellencies Army be permitted to come into this City without a Certificate.</item>
+                  <item>II. For the Reliefe of <hi>Manchester,</hi> and other parts in <hi>Lancaster,</hi> against the rising of the Papists there.</item>
+                  <item>III. Concerning some Souldiers lately come out of IRELAND.</item>
+                  <item>IV. For a search to be made in London, the Suburbes, and Townes adjacent, for Armes.</item>
+                  <item>V. That a search be made for Horses, or any other Ammu<g ref="char:EOLhyphen"/>nition, which have bin sold or pawn'd by any of the Souldiers, of the Army, raised by the PARLIAMENT.</item>
+               </list>
+            </p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Jovis, 24. <hi>Nov.</hi> 1642.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered by the Lords and Commons that these five Orders bee forthwith Printed and Published.</hi>
+                           </p>
+                           <closer>
+                              <signed>Iohn Browne, Cler. Parl.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>Nov.</hi> 36. London Printed for <hi>Iohn Wright.</hi> 1642.</p>
+            <pb facs="tcp:197746:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197746:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis,</hi> 24. Novemb. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament Assembled, being certainly informed of great resort of people unto this Ci<g ref="char:EOLhyphen"/>ty of London, both by Land and Wa<g ref="char:EOLhyphen"/>ter, of which some are suspected to bee persons ill affected to the Peace of this City and Kingdome, and for want of carefull Watches and ex<g ref="char:EOLhyphen"/>amination of passengers that come both by Land and Water, many Officers and Souldiers of the Army, under his Excellency the Earle of Essex, doe likewise repaire unto this City, and neglect their service and duty in the Army, which may be very dangerous, if some course be not directed to restraine the same; And it being also discovered, that Provisions of Corne, Butter, Cheese, and such like have in great quantities beene carried from this City, with intent to be transported unto other places, which at this time cannot conveniently be spared, nor may in policy be permitted; Doe Order and ordaine, that no Victuall or Provision, of what nature or kind soever, be allow<g ref="char:EOLhyphen"/>ed or suffered to be carried or transported by Land or Water, out of or from the City of London, without speciall Licence or direction first had and obtained from both or either Houses of Parliament. And that no Officer or Soldier of the Army of his Excellency
+<pb facs="tcp:197746:3"/> be in any case suffered to come into this City, not ha<g ref="char:EOLhyphen"/>ving a due Certificate of the cause of his comming from the same; And if any shall presume to come thence, not being so Licenced, the severall Persons and Guards appoynted to attend, for the defence and safety of this City, both by watet and by Land, are required to Attach and bring him or them before the Committee of the House of Commons for Examina<g ref="char:EOLhyphen"/>tion, as also all such other persons of whom there shall be any cause of suspition that they are not right<g ref="char:EOLhyphen"/>ly affected to the Peace of this City or Kingdom; And it is specially recommended to the Committee for the Militia of London, that they would by their endeavours take care and give direction unto fit per<g ref="char:EOLhyphen"/>sons for preventing the severall inconveniencies above mentioned. And the severall Officers of the Custome<g ref="char:EOLhyphen"/>house, Captaines, and other Officers of Forts and Castles, and all other persons whom it may concerne, are hereby commanded and required, to make stay of, and to search all persons, Ships, Barques, Boats, and other Vessels, that shall passe, or goe into, or out of, or from the City of London, or upon the River of Thames, and if any shall be found offending in the premisses, to seize and detaine the same, untill further direction shall be given therein by both or either Houses of Parliament.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197746:3"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis,</hi> 24. <hi>Novemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas the Lords and Commons are informed, that the Towne of Manchester, and some other parts within the County Palatine of Lancaster, have for a long time beene at excessive Charges for the defence of such as are well affected to the proceedings of Parliament, from the Injuries, Oppressions, illegall and exorbitant practises of the Commissioners of Array, the Papists, and other Malignant persons within that Countie; and now when their power doth much encrease, by the generall rising of the Papists there, and therefore have great need of a Supply of Strength (which was long since expected) yet on the contrary, they will be forced to disband their Garrison of Souldiers, which they have maintained as long as they are able, and so expose themselves not onely to the Violence of their Ene<g ref="char:EOLhyphen"/>mies, but much dishonour the Cause, and weaken the good Partie, unlesse they have some present supply of Money: Therefore it is Ordered by the Lords and Commons in Parliament, That such Moneyes or Plate, as M. <hi>Thomas Case,</hi> or any other person shall under-write, for the defence of Lancashire, and the reducing of the Malignant partie there, they shall have the publique Faith to Be repayed, with satisfaction after eight pounds <hi>per Cent.</hi> And that Sir <hi>Iohn Woole<g ref="char:EOLhyphen"/>ston</hi> Knight, Alderman <hi>Warner,</hi> Alderman <hi>Towes,</hi> and Alderman <hi>Andrewes</hi> take such subscriptions, and issue
+<pb facs="tcp:197746:4"/> the same for the use of the said Countie, by Warrant under the hands of any foure or more Members of this House that serve for that Countie; who are to give Order for the disposing of the Moneyes in the said Countie, so as may best conduce for the service thereof, to give accompt thereof to the House of Commons.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Iovis,</hi> 24. <hi>Novemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas it appeares by a Report this day made from the Committee for the Affaires of Ireland, and by the perusall of Letters from the Lord <hi>Inchequin,</hi> directed to M. <hi>Taylor</hi> of Bristol, and referred to the consideration of that Committee, That divers Souldiers doe runne away from their Service in Ireland, and passe into this King<g ref="char:EOLhyphen"/>dome, to the prejudice of the Service there, and the discouragement of others that might come to their assistance; It is therefore Ordered by the Lords and Commons in Parliament assembled, That the Major of Bristol for the time being, and other Officers of the Westerne Ports of this Kingdome, whom it may concerne, doe make diligent search from time to time for all such Souldiers and Officers of the
+<pb facs="tcp:197746:4"/> Army in Ireland, as shall come from thence with<g ref="char:EOLhyphen"/>out the speciall Licence of the Generall, or him that commandeth in Chiefe, and Land themselves at Bristol, or any other of the Westerne Ports; and finding any such, that they forthwith, upon due Exa<g ref="char:EOLhyphen"/>mination of them and the Ship-master that brought them over, doe take Bond or other sufficient Secu<g ref="char:EOLhyphen"/>ritie of such Masters, to carry or cause to be carryed back againe at their owne Charges such Souldiers, and to deliver them to the chiefe Officers of the Armies in Munster, to be proceeded against accor<g ref="char:EOLhyphen"/>ding to Martiall Law, and to receive condigne punishment; and that they returne the Names of such Ship-Masters as shall be so found to bring over such Souldiers, without good and sufficient Licence, to the Houses of Parliament, that they may receive such farther punishment for their Offence, as shall be thought meet.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197746:5"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis,</hi> 24. <hi>Novemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament Assembled, That Sir <hi>Edward Barkham,</hi> Master <hi>Wilcox</hi> of Tothnam, or either of them, and such as they shall ap<g ref="char:EOLhyphen"/>point, shall have power to search for Armes, Amunition or a<g ref="char:EOLhyphen"/>ny Horses that have beene sould, paun'd, or Imbezelled by any of the Souldiers of the Army raised by the Parliament, and to seize them where they finde them, and to send them to the re<g ref="char:EOLhyphen"/>spective officers of the said Army, who are appointed to have care of such matters.</p>
+            <closer>
+               <signed>Iohn Browne. Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Iovis,</hi> 24. <hi>Novemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament assembled, That <hi>Richard Wright,</hi> and <hi>Nathaniell Hall,</hi> shall be authorized by both Houses to search in London, and Suburbs and Townes adjacent for Armes lent by the City, and to seize the same, and to appoint Deputies for that pur<g ref="char:EOLhyphen"/>pose.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:197746:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
